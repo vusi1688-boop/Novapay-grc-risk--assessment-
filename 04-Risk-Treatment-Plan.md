@@ -26,30 +26,33 @@ Risks identified in the Enterprise Risk Register (`03-Risk-Register.md`) are sub
 
 ## 3. Phased Remediation Roadmap
 
-PHASE 1: Immediate Critical Quick Wins (Days 1 – 15)
--RSK-001: GitHub Secret Scanning & AWS Secrets Manager Deployment 
+## PHASE 1: Immediate Critical Quick Wins (Days 1 – 15)
 
--RSK-002: Enforce BitLocker / FileVault Full-Disk Encryption via MDM 
+-- RSK-001: GitHub Secret Scanning & AWS Secrets Manager Deployment 
 
--RSK-004: Formal Appointment of Data Protection Officer (DPO) & UK ICO Registration 
+-- RSK-002: Enforce BitLocker / FileVault Full-Disk Encryption via MDM 
 
-PHASE 2: High-Priority Controls & Vendor Remediation (Days 16 – 30)
+-- RSK-004: Formal Appointment of Data Protection Officer (DPO) & UK ICO Registration 
 
-├── RSK-003: Mandatory FIDO2/TOTP Hardware MFA Rollout across Okta & AWS
+## PHASE 2: High-Priority Controls & Vendor Remediation (Days 16 – 30)
 
-├── RSK-005: Publication of Master IR Plan & Tabletop Scenario Testing
+── RSK-003: Mandatory FIDO2/TOTP Hardware MFA Rollout across Okta & AWS
 
-├── RSK-006: Execution of GDPR Article 28 DPAs with Tier 1 SaaS Vendors
+── RSK-005: Publication of Master IR Plan & Tabletop Scenario Testing
 
-└── RSK-007: Enable Global AWS S3 "Block Public Access" & AWS Config Rules
+── RSK-006: Execution of GDPR Article 28 DPAs with Tier 1 SaaS Vendors
 
-PHASE 3: Operational Hardening & Audit Preparation (Days 31 – 90)
-├── RSK-008: Documented Database Backup Restoration Verification Testing
-└── RSK-009: Automated HRIS-to-Okta Offboarding Connector & Access Reviews
+── RSK-007: Enable Global AWS S3 "Block Public Access" & AWS Config Rules
 
-PHASE 4: Formal Risk Acceptance & Annual Review
+## PHASE 3: Operational Hardening & Audit Preparation (Days 31 – 90)
+
+── RSK-008: Documented Database Backup Restoration Verification Testing
+
+── RSK-009: Automated HRIS-to-Okta Offboarding Connector & Access Reviews
+
+## PHASE 4: Formal Risk Acceptance & Annual Review
+
 ── RSK-010: Remote Working Workspace Security Guidance & Formal Risk Acceptance.
-
 
 ---
 
