@@ -1,0 +1,11 @@
+Risk ID,Category,Threat Scenario,Likelihood,Impact,Inherent Score,Existing Controls,Treatment Plan,Residual Likelihood,Residual Impact,Residual Score,Owner,Target Date,Framework Mapping
+RSK-001,Technical,AWS API Key Leak: Hardcoded keys on GitHub,4,5,20,Manual code reviews,GitHub secret scanning + AWS Secrets Manager,2,3,6,DevOps Lead,15 Days,ISO A.8.12 / SOC2 CC6.1
+RSK-002,Endpoint,Unencrypted Laptops: Stolen workstation with cached data,4,5,20,Local passwords only,Enforce BitLocker/FileVault via MDM,1,4,4,IT Ops Lead,15 Days,ISO A.8.24 / GDPR Art.32
+RSK-003,Auth,Spear-Phishing: Okta credentials stolen on rogue portal,5,4,20,Password-only on staging,Enforce hardware FIDO2 MFA + phishing sims,2,3,6,IT Manager,30 Days,ISO A.8.5 / NIST PR.AC-7
+RSK-004,Compliance,Missing DPO: Operating without designated DPO in EU/UK,4,5,20,None,Formally designate vDPO + ICO registration,1,3,3,Legal Counsel,15 Days,GDPR Art. 37
+RSK-005,Governance,No IR Plan: Cyber incident without 72-hr workflow,4,5,20,Ad-hoc Slack communication,Publish master IR Plan + tabletop simulation,2,3,6,GRC Analyst,30 Days,ISO A.5.24 / SOC2 CC7.3
+RSK-006,Third-Party,Unvetted Analytics Vendor: No GDPR DPA executed,3,4,12,Standard web terms accepted,Execute GDPR Article 28 DPA + vendor review,1,3,3,Procurement,30 Days,ISO A.5.19 / GDPR Art.28
+RSK-007,Cloud,Public S3 Bucket: Payment backup bucket misconfigured,2,5,10,Manual creation policies,Enable S3 Block Public Access + AWS Config,1,4,4,DevOps Lead,30 Days,ISO A.8.20 / SOC2 CC6.6
+RSK-008,Operational,Untested Backups: Daily snapshots never test-restored,2,4,8,Daily automated snapshots,Schedule bi-annual backup restoration tests,1,2,2,DBA Lead,90 Days,ISO A.8.13 / SOC2 CC7.5
+RSK-009,HR,Delayed Offboarding: Terminated accounts active >30 days,2,4,8,Manual HR-to-IT email notice,Automate HRIS-to-Okta connector + access reviews,1,3,3,HR / IT,60 Days,ISO A.5.16 / SOC2 CC6.3
+RSK-010,Physical,Remote Workspace: Confidential code viewed in public,2,2,4,Onboarding briefing,Publish clean desk policy & accept risk,2,2,4,HR Lead,Accepted,ISO A.7.7 / NIST PE-5
