@@ -1,0 +1,29 @@
+# 📑 NovaPay Inc. — Executive Risk & Compliance Brief
+
+**Prepared For:** Chief Executive Officer, Chief Information Security Officer, & Board Audit Committee  
+**Prepared By:** P.V. Mohlala, Lead GRC Analyst  
+**Date:** October 2026  
+**Classification:** CONFIDENTIAL — EXECUTIVE GOVERNANCE  
+
+---
+
+## 1. Executive Context
+
+As NovaPay Inc. scales its B2B payment gateway SaaS platform across US, UK, and European markets, enterprise client acquisitions require verified compliance with **ISO 27001:2022, SOC 2 Type II, and GDPR**. 
+
+In Q4 2026, the GRC function conducted an initial comprehensive security risk assessment across cloud infrastructure, engineering workflows, vendor integrations, and remote workforce endpoints. This brief summarizes our current risk posture, identifies enterprise deal-blockers, and outlines the required remediation investment.
+
+---
+
+## 2. Risk Posture at a Glance
+
+```text
+Total Assets Assessed   : 12 Core Digital Assets & Cloud Services
+Total Risks Identified  : 10 Operational & Compliance Risks
+Inherent Financial Exposure: $3.2 Million USD (Unmitigated)
+
+Risk Severity Breakdown:
+  🔴 CRITICAL (Score 20-25) : 2 Risks  (Immediate Action Required)
+  🟠 HIGH     (Score 12-19) : 5 Risks  (30-Day SLA)
+  🟡 MEDIUM   (Score 6-11)  : 2 Risks  (90-Day SLA)
+  🟢 LOW      (Score 1-5)   : 1 Risk   (Formally Accepted)
