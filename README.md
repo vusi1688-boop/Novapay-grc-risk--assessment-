@@ -1,8 +1,8 @@
 # 🛡️ NovaPay Inc. — Enterprise Security Risk Assessment & Compliance Mapping
 
-![Focus](https://img.shields.style/badge/Focus-GRC%20%7C%20Risk%20%7C%20Compliance-blue)
-![Frameworks](https://img.shields.style/badge/Frameworks-ISO%2027001%20%7C%20NIST%20CSF%202.0%20%7C%20SOC%202%20%7C%20GDPR-green)
-![Status](https://img.shields.style/badge/Status-Complete-brightgreen)
+**Focus:** `GRC` · `Risk Assessment` · `Compliance Mapping`  
+**Frameworks:** `ISO 27001:2022` · `NIST CSF 2.0` · `SOC 2 Type II` · `GDPR`  
+**Status:** `Completed Q4 Assessment`
 
 > **Disclaimer:** NovaPay Inc. is a fictional 120-person B2B payment processing SaaS company created for portfolio demonstration purposes. All data flows, system architectures, and risk scenarios reflect realistic industry environments.
 
