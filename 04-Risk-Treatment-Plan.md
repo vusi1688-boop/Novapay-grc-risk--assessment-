@@ -29,7 +29,9 @@ Risks identified in the Enterprise Risk Register (`03-Risk-Register.md`) are sub
 PHASE 1: Immediate Critical Quick Wins (Days 1 – 15)
 
 ├── RSK-001: GitHub Secret Scanning & AWS Secrets Manager Deployment
+
 ├── RSK-002: Enforce BitLocker / FileVault Full-Disk Encryption via MDM
+
 └── RSK-004: Formal Appointment of Data Protection Officer (DPO) & UK ICO Registration
 
 PHASE 2: High-Priority Controls & Vendor Remediation (Days 16 – 30)
