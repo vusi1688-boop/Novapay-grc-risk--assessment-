@@ -113,7 +113,8 @@ A risk item is marked as **"CLOSED"** in the Enterprise Risk Register only after
 ```text
 [Risk Identified] ➔ [Remediation Executed] ➔ [Evidence Submitted] ➔ [GRC Audit Verification] ➔ [CLOSED]
 
-Sign-Off Block
+
+
 Lead GRC Analyst: P.V. Mohlala — Status: Approved
 CISO / VP of Engineering: Approved for Execution
 Date: October 2026
